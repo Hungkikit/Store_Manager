@@ -1,0 +1,48 @@
+{
+  "dataStore": [
+    {
+      "id": 2,
+      "name": "Bách Hóa Xanh",
+      "drees": "Nam Từ Liêm - Hà Nội",
+      "phone": "038928392",
+      "follow": "30",
+      "star": 3,
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsyfOEbq3bVSxryL2EAB6KuP211Jwbze2RNA&usqp=CAU",
+      "status": 0
+    },
+    {
+      "id": 4,
+      "name": "Bách Hóa Xanh",
+      "drees": "Nam Từ Liêm - Hà Nội",
+      "phone": "038928392",
+      "follow": "30",
+      "star": 3,
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsyfOEbq3bVSxryL2EAB6KuP211Jwbze2RNA&usqp=CAU",
+      "status": 0
+    },
+    {
+      "name": "Bách Hóa Xanhcsac",
+      "phone": "038928392",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsyfOEbq3bVSxryL2EAB6KuP211Jwbze2RNA&usqp=CAU",
+      "drees": "Nam Từ Liêm - Hà Nội",
+      "status": 0,
+      "id": 5
+    },
+    {
+      "name": "FPT Shopcascsac",
+      "phone": "09347837342",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1zXuiY7kyTcUao5_4FtE9K3nJcZjOJMXJig&usqp=CAU",
+      "drees": "Chua lang - Ha Noi",
+      "status": 1,
+      "id": 6
+    },
+    {
+      "name": "cascs",
+      "drees": "csacass",
+      "phone": "acs",
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRft9j1N5RomI96p0vldhtRrYqpXbyGuvBWQw&usqp=CAU",
+      "status": 1,
+      "id": 7
+    }
+  ]
+}
